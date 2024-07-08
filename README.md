@@ -1,2 +1,2 @@
 # -javascript-activity
-activity using query strings
+activity using query strings.
